@@ -1,6 +1,6 @@
 #ifndef main_h
 #define main_h
-
+void _putchar(char c);
 void swap_int(int *a, int *b);
 int _strlen(char *s);
 void _puts(char *str);
