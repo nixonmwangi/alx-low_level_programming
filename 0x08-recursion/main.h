@@ -1,5 +1,5 @@
-#ifndef "main_h"
-#define "main_h"
+#ifndef main_h
+#define main_h
 int wildcmp(char *s1, char *s2);
 int is_palindrome(char *s);
 int is_prime_number(int n);
